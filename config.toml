@@ -5,13 +5,31 @@ theme = "cocoa"
 
 
 [[menu.main]]
-name = "Home"
+name = "Forside"
 weight = -201
-identifier = "home"
+identifier = "forside"
 url = "/"
+
+[[menu.main]]
+name = "Om"
+weight = "-101"
+identifier = "om"
+url = "/om/"
+
+[[menu.main]]
+name = "Kontakt"
+weight = "-101"
+identifier = "kontakt"
+url = "/kontakt/"
 
 [[menu.main]]
 name = "Blog"
 weight = "-101"
 identifier = "blog"
 url = "/blog/"
+
+[[menu.main]]
+name = "Portfolio"
+weight = "-101"
+identifier = "portfolio"
+url = "/portfolio/"

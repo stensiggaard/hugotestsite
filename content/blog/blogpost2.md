@@ -1,5 +1,5 @@
 ---
-title: "En vild, vild artikel"
+title: "En vild, vild artikel blogpost 2"
 date: 2018-02-01T22:00:54+01:00
 draft: true
 ---

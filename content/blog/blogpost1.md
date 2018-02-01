@@ -1,5 +1,5 @@
 ---
-title: "Nu bliver det billigt at købe løver"
+title: "Nu bliver det billigt at købe løver - blogpost 1"
 date: 2018-02-01T22:00:43+01:00
 draft: true
 ---
