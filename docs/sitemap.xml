@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://andd.dk/hugotestsite/anders/</loc>
+    <lastmod>2018-02-01T23:43:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andd.dk/hugotestsite/blog/</loc>
+    <lastmod>2018-02-01T22:58:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andd.dk/hugotestsite/portfolio/</loc>
+    <lastmod>2018-02-01T22:53:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andd.dk/hugotestsite/portfolio/case2/</loc>
+    <lastmod>2018-02-01T22:52:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andd.dk/hugotestsite/portfolio/case1/</loc>
+    <lastmod>2018-02-01T22:49:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andd.dk/hugotestsite/om/</loc>
+    <lastmod>2018-02-01T22:46:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andd.dk/hugotestsite/blog/blogpost2/</loc>
+    <lastmod>2018-02-01T22:00:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andd.dk/hugotestsite/blog/blogpost1/</loc>
+    <lastmod>2018-02-01T22:00:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andd.dk/hugotestsite/kontakt/</loc>
+    <lastmod>2018-02-01T22:00:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andd.dk/hugotestsite/</loc>
+    <lastmod>2018-02-01T21:56:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andd.dk/hugotestsite/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andd.dk/hugotestsite/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
