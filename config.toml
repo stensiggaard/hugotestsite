@@ -2,6 +2,7 @@ baseURL = "https://andd.dk/hugotestsite/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "cocoa"
+publishdir = "docs"
 
 
 [[menu.main]]
