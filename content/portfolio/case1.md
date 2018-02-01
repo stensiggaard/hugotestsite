@@ -1,6 +1,6 @@
 ---
 title: "Case1"
 date: 2018-02-01T22:49:46+01:00
-draft: true
+
 caseimage: ../imgs/website.jpg
 ---

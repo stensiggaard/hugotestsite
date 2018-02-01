@@ -1,7 +1,7 @@
 ---
 title: "Portfolioer"
 date: 2018-02-01T22:53:06+01:00
-draft: true
+
 ---
 Her kommer virkeligt mange portfolioer! Bare vent og se
 

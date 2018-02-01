@@ -1,7 +1,7 @@
 ---
 title: "Hej Verden"
 date: 2018-02-01T21:56:04+01:00
-draft: true
+
 ---
 # This is a h1 tag
 ## This is a h2 tag

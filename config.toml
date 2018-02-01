@@ -35,4 +35,4 @@ identifier = "portfolio"
 url = "/portfolio/"
 
 [params]
-extracssfiles = [ "/css/override.css" ]       # In your `static` directory, add/remove files as necessary.
+extracssfiles = [ "https://andd.dk/hugotestsite/css/override.css" ]       # In your `static` directory, add/remove files as necessary.
