@@ -33,3 +33,6 @@ name = "Portfolio"
 weight = "-101"
 identifier = "portfolio"
 url = "/portfolio/"
+
+[params]
+extracssfiles = [ "/css/override.css" ]       # In your `static` directory, add/remove files as necessary.

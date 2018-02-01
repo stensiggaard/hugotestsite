@@ -1,0 +1,16 @@
+{{ partial "header.html" . }}
+<section class="main">
+    <div class="container">
+        <div class="content">
+          <div class="hero">Det her er vores default single html template</div>
+            {{ partial "page-heading.html" . }}
+            <div class="caseimage"><img src="{{ .Params.caseimage }}"></div>
+            <div class="markdown">
+                {{ .Content }}
+
+
+            </div>
+        </div>
+    </div>
+</section>
+{{ partial "footer.html" . }}
